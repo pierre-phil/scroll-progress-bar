@@ -1,0 +1,14 @@
+.scroll-progress-bar_wrapper {
+  background-color: black;
+  height: 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.scroll-progress-bar_fill {
+  height: 15px;
+  background-color: green;
+}
