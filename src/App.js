@@ -1,9 +1,9 @@
-import ScrollProgressBar from "./components/ScrollProgressBar/ScrollProgressBar";
+import VerticalScrollProgressBar from "./components/VerticalScrollProgressBar/VerticalScrollProgressBar";
 
 function App() {
   return (
     <div className="App">
-      <ScrollProgressBar />
+      <VerticalScrollProgressBar />
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus arcu
         nulla, euismod non dapibus sit amet, vulputate eget eros. Quisque eu
