@@ -1,5 +1,5 @@
 {
-  "name": "progress-bar",
+  "name": "scroll-progress-bar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
